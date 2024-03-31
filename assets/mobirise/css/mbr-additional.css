@@ -1038,7 +1038,8 @@ a {
 .cid-sc1dllTRMM {
   padding-top: 7rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/background7.jpg");
+/*  background-image: url("../../../assets/images/background7.jpg"); */
+  background-image: url("../../../assets/images/tlo2.jpg");
 }
 @media (max-width: 991px) {
   .cid-sc1dllTRMM .mbr-section-title,
@@ -1051,7 +1052,8 @@ a {
 .cid-sc1dzmVlvP {
   padding-top: 2rem;
   padding-bottom: 7rem;
-  background-color: #e7f5f7;
+  /* Old color was: background-color: #e7f5f7; */
+  background-color: #faf3fc;
 }
 .cid-sc1dzmVlvP .top-line {
   display: flex;
@@ -1066,7 +1068,8 @@ a {
 }
 .cid-sc1dzmVlvP .card-wrapper {
   border-radius: 4px;
-  background-color: #e7f5f7;
+/* Old color was: background-color: #e7f5f7; */
+  background-color: #faf3fc;
 }
 .cid-sc1dzmVlvP .image-wrapper img {
   width: 100%;
